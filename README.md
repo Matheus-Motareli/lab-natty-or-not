@@ -2,7 +2,7 @@
 # IA Generativa: Guia prático para o humano moderno ;)
 
 ## 📒 Descrição
-Este projeto consiste e um Ebook cujo o tema é Inteligência Artificial
+Este projeto consiste em um Ebook cujo o tema é Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa Gemini para roteirização;
